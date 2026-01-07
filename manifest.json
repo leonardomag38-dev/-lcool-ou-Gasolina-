@@ -1,0 +1,18 @@
+{
+  "name": "Álcool ou Gasolina",
+  "short_name": "Combustível",
+  "description": "Descubra qual combustível é mais vantajoso com base no custo real por quilômetro (R$/km).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b5e20",
+  "theme_color": "#1b5e20",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
